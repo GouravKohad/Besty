@@ -33,7 +33,7 @@ or
 
 `Git`
 ```
-git clone https://github.com/gourav-9/Besty.git
+git clone https://github.com/gourav-9/Besty.git <project_name>
 ```
 
 ## Documentation 
