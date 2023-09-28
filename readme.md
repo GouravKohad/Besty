@@ -35,3 +35,54 @@ or
 ```
 git clone https://github.com/gourav-9/Besty.git
 ```
+
+### Documentation 
+#### Adding Gradient on Element 
+10+ Gradient colour
+```
+besty.bg('element').gradient(1)
+besty.bg('element1').gradient(2)
+besty.bg('element2').gradient(3)
+besty.bg('element3').gradient(4)
+besty.bg('element4').gradient(5)
+besty.bg('element5').gradient(6)
+besty.bg('element6').gradient(7)
+```
+
+#### Animations
+`Swing Animation`
+```
+besty.animate('element').swing()
+```
+
+`Fade Animation`
+```
+besty.animate('element').fade()
+```
+
+`upDance Animation`
+```
+besty.animate('element').upDance()
+```
+
+`downDance Animation`
+```
+besty.animate('element').downDance()
+```
+
+#### Text
+`Text stroke`
+```
+besty.text('element').stroke(borderSize, borderColor)
+```
+`Text Colour`
+
+```
+besty.text('element').color("color")
+```
+
+`Fit image in text`
+```
+besty.text('element').img(imgUrl)
+```
+
