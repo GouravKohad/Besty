@@ -36,8 +36,8 @@ or
 git clone https://github.com/gourav-9/Besty.git
 ```
 
-### Documentation 
-#### Adding Gradient on Element 
+## Documentation 
+### Adding Gradient on Element 
 10+ Gradient colour
 ```
 besty.bg('element').gradient(1)
@@ -49,7 +49,7 @@ besty.bg('element5').gradient(6)
 besty.bg('element6').gradient(7)
 ```
 
-#### Animations
+### Animations
 `Swing Animation`
 ```
 besty.animate('element').swing()
@@ -70,7 +70,7 @@ besty.animate('element').upDance()
 besty.animate('element').downDance()
 ```
 
-#### Text
+### Text
 `Text stroke`
 ```
 besty.text('element').stroke(borderSize, borderColor)
