@@ -1,0 +1,78 @@
+.swing{
+  position: absolute;
+  animation: swing linear 1s infinite;
+}
+@keyframes swing{
+  0%{
+    transform: rotate(0deg);
+  }
+  40%{
+    transform: rotate(27deg);
+  }
+  80%{
+    transform: rotate(-27deg);
+  }
+  100%{
+    transform: rotate(0deg);
+  }
+  
+}
+.fade{
+  position: absolute ;
+  animation: fade linear 1s infinite;
+}
+@keyframes fade{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 2;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+.upDance{
+  position: absolute;
+  animation: upDance 3s linear infinite;
+}
+@keyframes upDance{
+  0%{
+margin-top: 0%;
+  }
+  25%{
+margin-top: 10%;
+  }
+  50%{
+margin-top: 0%;
+  }
+  75%{
+margin-top: 5%;
+  }
+  100%{
+margin-top: 0%;
+  }
+}
+
+.downDance{
+  position: absolute;
+  animation: downDance 3s linear infinite;
+}
+@keyframes downDance{
+    0%{
+margin-top: -0%;
+  }
+  25%{
+margin-top: -10%;
+  }
+  50%{
+margin-top: -0%;
+  }
+  75%{
+margin-top: -5%;
+  }
+  100%{
+margin-top: -0%;
+  }
+}
