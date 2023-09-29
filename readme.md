@@ -33,7 +33,7 @@ or
 
 `npm`
 ```
-npm install besty@latest
+npm install --prefix your_path besty@latest
 ```
 or
 
