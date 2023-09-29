@@ -36,6 +36,13 @@ or
 git clone https://github.com/gourav-9/Besty.git <project_name>
 ```
 
+or 
+
+`Download install.sh file from release`
+```
+sh install.sh your_path
+```
+
 ## Documentation 
 ### Adding Gradient on Element 
 10+ Gradient colour
