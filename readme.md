@@ -31,6 +31,12 @@ CSS: https://gourav-9.github.io/Besty/Besty.css
 ```
 or
 
+`npm`
+```
+npm install besty@latest
+```
+or
+
 `Git`
 ```
 git clone https://github.com/gourav-9/Besty.git <project_name>
