@@ -23,11 +23,11 @@ Here installation is very easy one command and the project is ready if you not i
 
 `CDN`
 ```
-JS: https://gourav-9.github.io/Besty/Besty.js
+JS: https://gouravkohad.github.io/Besty/Besty.js
 ```
 
 ```
-CSS: https://gourav-9.github.io/Besty/Besty.css
+CSS: https://gouravkohad.github.io/Besty/Besty.css
 ```
 or
 
@@ -39,7 +39,7 @@ or
 
 `Git`
 ```
-git clone https://github.com/gourav-9/Besty.git <project_name>
+git clone https://github.com/gouravkohad/Besty.git <project_name>
 ```
 
 or 
