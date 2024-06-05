@@ -1,0 +1,20 @@
+{
+  "name": "besty",
+  "version": "0.1.2",
+  "description": "## What is Besty.js?",
+  "main": "*",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run besty"
+  },
+  "author": "Gourav saini",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourav-9/Besty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gourav-9/Besty/issues"
+  },
+  "homepage": "https://github.com/gourav-9/Besty#readme"
+}

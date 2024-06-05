@@ -1,0 +1,18 @@
+{
+  "package":"Besty",
+  "sources":{
+    "html":"index.html",
+    "script":["Besty.js"],
+    "ccs":["Besty.css"]
+  },
+  "provider":"CodeWithSaini",
+  "version":"1.0.1",
+  "price":"free",
+  "languages":["html","css","javascript"],
+  "type":"framework",
+  "cdnProvider":"GitHub Pages",
+  "codeProvider":"GitHub",
+  "class":"Besty",
+  "DBsupport":"No",
+  "Email":"CodeWithSaini+besty@gmail.com"
+}
